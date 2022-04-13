@@ -6,6 +6,15 @@ y = 5
 panjang = 100
 lebar = 20
 
-print("Nilai x = ", x)
-print("Nilai y = ", y)
 print("Nilai panjang = ", panjang)
+print("Nilai x = ", x)
+
+# penamaan
+nilai_y = 11
+juta10 = 10000000
+nilaiZ = 12
+
+print("Nilai y = ", y)
+x = 2
+a = 10
+print("Nilai a = ", a)
